@@ -1,5 +1,5 @@
 const { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } = Recharts;
-const { motion } = Motion;
+const { motion } = framerMotion;
 
 const data = [
   { name: '短', 弊社サービス: 10, SNS運用代行: 5, インフルエンサー広告: 2 },
